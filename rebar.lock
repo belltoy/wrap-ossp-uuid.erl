@@ -1,0 +1,4 @@
+[{<<"ossp_uuid">>,
+  {git,"https://github.com/timclassic/erlang-ossp-uuid.git",
+       {ref,"b2087ee01e75576098965d6bc4d83c3335bcfb33"}},
+  0}].
